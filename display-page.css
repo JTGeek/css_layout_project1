@@ -11,11 +11,13 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+.box {
+  border: 1px solid black;
+}
 /*row 1: Blocks 1-2*/
 .row-1 {
   height: 200px;
   width: 50%;
-  border: 1px solid black;
 }
 /*row 2: Blocks 3-4*/
 .row-2 {
