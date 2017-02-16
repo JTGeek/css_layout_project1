@@ -8,8 +8,9 @@ main {
 .inner {
   display: inline-block;
   vertical-align: top;
-  border-width: 1px;
-  border-color: black;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
 }
 /*row 1: Blocks 1-2*/
 .row-1 {
