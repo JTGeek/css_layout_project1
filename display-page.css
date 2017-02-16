@@ -22,6 +22,7 @@ main {
   height: 300px;
   width: 33.33%;
 }
+/*individual blocks*/
 .block-one {
   background-color: green;
 }
