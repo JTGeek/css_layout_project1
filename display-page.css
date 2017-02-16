@@ -17,11 +17,10 @@ main {
   width: 50%;
   border: 1px solid black;
 }
-/*row 2: Blocks 3-5*/
+/*row 2: Blocks 3-4*/
 .row-2 {
   height: 300px;
   width: 33.33%;
-  border: 1px solid black;
 }
 /*individual blocks*/
 .block-one {
