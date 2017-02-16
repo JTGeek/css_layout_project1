@@ -8,7 +8,6 @@ main {
 .inner {
   display: inline-block;
   vertical-align: top;
-  border: 1px solid black;
   margin-left: auto;
   margin-right: auto;
 }
@@ -16,6 +15,7 @@ main {
 .row-1 {
   height: 200px;
   width: 50%;
+  border: 1px solid black;
 }
 /*row 2: Blocks 3-4*/
 .row-2 {
